@@ -59,4 +59,4 @@ module.exports = {
       message.reply("❌ | Please reply to an image.");
     }
   }
-};
+}; 
